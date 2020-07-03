@@ -2,9 +2,8 @@
 
 ![Licence](https://img.shields.io/badge/Licence-MIT-blue) ![Licence](https://img.shields.io/badge/Author-Eduardo%20Santos-blue)
 
-A countdown timer in React Native with controls to add time, speed up / slow down the countdown, pause and resume
+A countdown timer in React with controls to add time, speed up / slow down the countdown, pause and resume
 
-![Countdown Timer Application](preview.gif)
 
 ## Requeriments
 
